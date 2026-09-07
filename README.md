@@ -9,6 +9,7 @@ here. See **[`doc/SOFTWARE_REQUIREMENTS.md`](doc/SOFTWARE_REQUIREMENTS.md)** for
 install and how (also available as
 `doc/software_requirements.pdf`).
 
+[![DOI](https://zenodo.org/badge/1359648290.svg)](https://doi.org/10.5281/zenodo.22581727)
 ---
 
 ## The model in one page
