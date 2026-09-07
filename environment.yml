@@ -1,0 +1,16 @@
+# Conda environment for the Australian Alps glacial-cycle simulations.
+#
+#   conda env create -f environment.yml
+#   conda activate msprime-env
+#
+# Only msprime and its dependencies are needed here; the R side is installed
+# separately (see doc/software_requirements.pdf).
+name: msprime-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy>=2.0
+  - msprime>=1.4
+  - tskit>=0.5
